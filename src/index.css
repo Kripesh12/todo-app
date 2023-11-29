@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  width: 400px;
+  width: 600px;
   margin: 0 auto;
   padding: 0 20px;
   border-radius: 20px;
@@ -52,8 +52,8 @@ body {
   width: 80%;
   margin-left: 10px;
   border: none;
-  font-size: 16px;
-  padding: 5px 2px;
+  font-size: 20px;
+  padding: 5px 8px;
 }
 
 input:focus {
@@ -131,7 +131,7 @@ select:hover {
   align-items: center;
   justify-content: space-between;
   padding: 8px 20px;
-  font-size: 16px;
+  font-size: 20px;
   border-radius: 15px;
 }
 
